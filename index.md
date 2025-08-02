@@ -2,3 +2,5 @@
 ## This is 2nd Header
 ### This is 3rd Header
 Added 3 header with different size
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
